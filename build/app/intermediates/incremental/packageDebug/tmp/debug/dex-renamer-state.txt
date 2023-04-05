@@ -1,0 +1,4 @@
+#Wed Apr 05 23:02:38 UZT 2023
+base.0=D\:\\Build-an-Animated-App-with-Rive-and-Flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
